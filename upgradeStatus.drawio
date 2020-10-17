@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T06:30:25.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="PdSH4fZCZ5NsLKYlvVM-" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T06:31:06.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="beXy_AzvPzuKMNorJYlv" version="13.8.0" type="github">
   <diagram id="VqOy9UcTznLti8Iem_Px" name="Page-1">
     <mxGraphModel dx="1298" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -298,8 +298,8 @@
             <mxPoint x="160.1500000000001" y="14.999999999999943" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVf5J2YV6CklecG3pBuP-69" value="upgradeStatus state changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="200.00000000000003" y="90" width="200" height="20" as="geometry" />
+        <mxCell id="nVf5J2YV6CklecG3pBuP-69" value="property &lt;b&gt;&lt;i&gt;upgradeStatus&lt;/i&gt;&lt;/b&gt; state changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200.17000000000002" y="90" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
